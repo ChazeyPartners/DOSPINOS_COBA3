@@ -1,0 +1,1 @@
+BCP [{2}].[dbo].[CSACHARINPUTTABLE] in "{0}" -S {1} -t"{3}" -c -U{4} -P{5}

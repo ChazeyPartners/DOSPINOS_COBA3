@@ -1,0 +1,148 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TransactionItem&StateMachine_1",
+        "SystemException&StateMachine_1",
+        "BusinessException&StateMachine_1",
+        "TransactionNumber&StateMachine_1",
+        "Config&StateMachine_1",
+        "RetryNumber&StateMachine_1",
+        "TransactionField2&StateMachine_1",
+        "TransactionField1&StateMachine_1",
+        "TransactionID&StateMachine_1",
+        "TransactionData&StateMachine_1",
+        "vConDB&StateMachine_1",
+        "vBoolPrimeraVerificacion&State_2",
+        "vStrExcepcionFBL5N&State_2",
+        "vDtbConsolidado&Sequence_4",
+        "vBoolProcess&Sequence_4",
+        "vDtbRegistrosSP&Sequence_4",
+        "vBooReporte&Sequence_4",
+        "vObjWB&Sequence_4",
+        "vSecPass&Sequence_78",
+        "vStrUser&Sequence_78",
+        "vDtbListado&TryCatch_37",
+        "wb&Sequence_79",
+        "vStrTablaGestionados&Sequence_80",
+        "vStrPathScreen&Sequence_81",
+        "vSecPass&Sequence_74",
+        "vStrUser&Sequence_74",
+        "vDtbListado&TryCatch_36",
+        "wb&Sequence_75",
+        "vStrTablaGestionados&Sequence_76",
+        "vStrPathScreen&Sequence_77",
+        "ShouldStop&Sequence_25",
+        "vBooFileSAP&Sequence_45",
+        "vDtbConsolidado&Sequence_119",
+        "vBoolProcess&Sequence_119",
+        "vObjWB&Sequence_119",
+        "vSecPass&Sequence_119",
+        "vStrUser&Sequence_119",
+        "vStrTablaGestionados&Sequence_128",
+        "vDtbRegistrosSP&Sequence_128"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_OrchestratorQueueName"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/KillAllProcesses.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ProcessMachine&Sequence_2",
+        "arrayProcesos&Sequence_2",
+        "strProcess&Sequence_2",
+        "vStrActivityName&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_Config"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Apps/Legacy/Legacy_Login.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "vStrActivityName&Sequence_1",
+        "vBooMainWindow&Sequence_1",
+        "vBooJava&Sequence_15"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_StrUrlLegacy",
+        "in_IntMaxRetryNumber",
+        "in_IntMaxTimeout",
+        "in_IntTimeoutDelay"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Apps/Excel/Excel_GenerarTXT.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "vDtbListado&Sequence_1",
+        "vStrDocumento&Sequence_1",
+        "vStrDescripcion&Sequence_1",
+        "vStrFechaTX&Sequence_1",
+        "vStrFecha&Sequence_1",
+        "vStrMonto&Sequence_1",
+        "vArrRow&Sequence_1",
+        "vStrCodigo&Sequence_1",
+        "vStrCuenta&Sequence_1",
+        "vArrRowCopia&Sequence_1",
+        "vStrTabla&Sequence_1",
+        "vStrClv&Sequence_1",
+        "vStrCME&Sequence_1",
+        "vStrSociedad&Sequence_11",
+        "vStrMoneda&Sequence_11",
+        "vStrCLVCME&Sequence_11"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_config",
+        "in_ConDB",
+        "in_DtbRegistros"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Apps/Excel/Excel_VerificarDocumento.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "vDtbFBL5N&Sequence_1",
+        "vDtbListado&Sequence_1",
+        "vDtbRegistros&Sequence_1",
+        "vIntIndexL&Sequence_1",
+        "vDtbListadoAux&Sequence_1",
+        "vStrRange&Sequence_1",
+        "vObjWB&Sequence_1",
+        "vIntIndex&Sequence_17",
+        "vStrDocumento&Sequence_21",
+        "vDtbFBL5NAux&Sequence_23",
+        "vStrMontoSAP&Sequence_23",
+        "vArrCols&Sequence_18"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_config",
+        "out_DtbRegistros",
+        "out_DtbAñadir"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}

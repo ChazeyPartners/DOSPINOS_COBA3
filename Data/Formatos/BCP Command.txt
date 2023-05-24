@@ -1,0 +1,1 @@
+BCP [{1}].[dbo].[COBACHARINPUTTABLE] in "{0}" -T -t'{2}' -c -S {3}

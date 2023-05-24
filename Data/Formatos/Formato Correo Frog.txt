@@ -1,0 +1,1 @@
+Según lo analizado por {0}, se detecta una discrepancia entre la cantidad de interfaces de salida de FROG y las interfaces de entrada de SAP (FSD-12), a continuación se listan las referencias faltantes:
