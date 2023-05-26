@@ -12857,15 +12857,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rpacscotc2\\.nuget\\packages\\": {}
+    "C:\\Users\\ex_sjimenez\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "COBA_3",
       "projectName": "COBA_3",
-      "projectPath": "C:\\Users\\rpacscotc2\\Documents\\UiPath\\COBA3\\.local",
-      "packagesPath": "C:\\Users\\rpacscotc2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rpacscotc2\\Documents\\UiPath\\COBA3\\.local"
+      "projectPath": "C:\\Users\\ex_sjimenez\\Documents\\GIT\\DOSPINOS_COBA3\\.local",
+      "packagesPath": "C:\\Users\\ex_sjimenez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ex_sjimenez\\Documents\\GIT\\DOSPINOS_COBA3\\.local"
     },
     "frameworks": {
       "net461": {

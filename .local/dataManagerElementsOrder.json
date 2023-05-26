@@ -143,6 +143,77 @@
       ],
       "ConstantsSectionElementsOrder": null,
       "AddedNamespaces": null
+    },
+    {
+      "Path": "Apps/Sharepoint/Sharepoint_Descarga.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "vSecPass&Sequence_5",
+        "vStrUser&Sequence_5",
+        "vStrActivityName&Sequence_5",
+        "vArrFiles&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_Config"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Apps/SQL/SQL_ConectDB.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "vStrActivityName&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_Config",
+        "in_StrUser",
+        "in_SecPass",
+        "out_conDB"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Process.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "vBoolVacio&Sequence_4",
+        "vStrActivityName&Sequence_1",
+        "vLisNoCumplen&Sequence_1",
+        "vDtbCuentas&Sequence_1",
+        "vStrCuentaLegacy&Sequence_1",
+        "vStrMoneda&Sequence_1",
+        "vStrSociedad&Sequence_1",
+        "vStrDiasPermetidos&Sequence_1",
+        "vDtbCongelados&Sequence_1",
+        "vStrCuentaBancaria&Sequence_2",
+        "vIntFila&Sequence_4",
+        "vBoolExiste&Sequence_4",
+        "vBoolList&Sequence_4",
+        "vObjWB&Sequence_4",
+        "vDtbListado&Sequence_4",
+        "vStrEstado&Sequence_21",
+        "vBoolWhile&Sequence_20",
+        "vIntIndex&Sequence_15",
+        "vBoolCongelado&Sequence_15",
+        "vBoolGeneral&Sequence_5",
+        "vIntIndex&Sequence_22",
+        "vStrDocumentoB&Sequence_6",
+        "vStrSAPb&Sequence_6",
+        "vStrMontoB&Sequence_6",
+        "vIntIndex&Sequence_36",
+        "vStrDocumentoB&Sequence_7",
+        "vStrSAPb&Sequence_7",
+        "vStrMontoB&Sequence_7",
+        "vIntIndex&Sequence_37"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_TransactionItem",
+        "in_Config"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
     }
   ]
 }
